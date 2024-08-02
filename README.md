@@ -1,6 +1,6 @@
 # sbobbify
 
-A new Flutter project.
+Food delivery app
 
 ## Getting Started
 
